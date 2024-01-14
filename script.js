@@ -1,6 +1,6 @@
 "use strict";
 const countriesContainer = document.querySelector(".countries");
-const apiKey = "279594358126689211813x9259";
+const apiKey = "USE YOUR GEO-CODING API KEY";
 const btnCountry = document.querySelector(".btn-country");
 
 const renderCountry = function (countryData) {
